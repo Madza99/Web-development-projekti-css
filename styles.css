@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+div {
+  background-color: #FCF8E8;
+}
+
+h1 {
+  margin: 0 auto;
+  font-family: 'Beau Rivage', cursive;
+  line-height: 2;
+  font-size: 90px;
+  color: #694E4E;
+}
+
+h2 {
+  font-family: palatino, serif;
+  font-size: 40px;
+  color: #886F6F;
+}
+
+h3 {
+  font-family: palatino, serif;
+  color: #886F6F;
+}
+
+hr {
+  border-style: dashed;
+  border-color: #DAB88B;
+  border-width: 5px;
+  border-bottom: 0;
+  width: 20%;
+}
+
+.me {
+  border-radius: 50%;
+}
+
+.top {
+  position: relative;
+  padding-top: 100px;
+}
+
+.plane {
+  height: 200px;
+  padding: 40px;
+  width: 200px;
+}
+
+.dancer {
+  height: 200px;
+  padding: 40px;
+  width: 200px;
+}
+
+.middle {
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.skills {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contact-me {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 0;
+
+}
+.name{
+  margin: 0;
+  padding: 10px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
